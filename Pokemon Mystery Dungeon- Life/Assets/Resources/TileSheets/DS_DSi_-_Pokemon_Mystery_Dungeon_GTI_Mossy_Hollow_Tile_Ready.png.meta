@@ -1,0 +1,6404 @@
+fileFormatVersion: 2
+guid: f6530d0c882556a4f8112100022dac81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2329363932563172700
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_0
+  - first:
+      213: -4046694288208232441
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_1
+  - first:
+      213: 4700485654555029984
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_2
+  - first:
+      213: -4206812038730170974
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_3
+  - first:
+      213: 7467549812268341813
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_4
+  - first:
+      213: 4324190853031233906
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_5
+  - first:
+      213: -4575225304019417322
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_6
+  - first:
+      213: -437238276926700755
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_7
+  - first:
+      213: 844440766210521849
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_8
+  - first:
+      213: 6698859382885485381
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_9
+  - first:
+      213: 7030320777295040513
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_10
+  - first:
+      213: 1445479834924297459
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_11
+  - first:
+      213: 276661239495302245
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_12
+  - first:
+      213: 4351571816027838221
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_13
+  - first:
+      213: 4532384726448451326
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_14
+  - first:
+      213: 2964183981898213895
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_15
+  - first:
+      213: 5325160447400286030
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_16
+  - first:
+      213: -219848543992245383
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_17
+  - first:
+      213: -1192154420935400577
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_18
+  - first:
+      213: 6603120475992727687
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_19
+  - first:
+      213: -2275811463220228982
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_20
+  - first:
+      213: 7029238114343790193
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_21
+  - first:
+      213: -6813326289211826039
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_22
+  - first:
+      213: 9121018450505969708
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_23
+  - first:
+      213: -872767200035931340
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_24
+  - first:
+      213: -2708894651323707285
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_25
+  - first:
+      213: 6852828992387830096
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_26
+  - first:
+      213: -6492552087808340866
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_27
+  - first:
+      213: -600562937718411328
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_28
+  - first:
+      213: -9172218550317625955
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_29
+  - first:
+      213: 4566338897557906101
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_30
+  - first:
+      213: -1775224156314448379
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_31
+  - first:
+      213: -5788383546896386010
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_32
+  - first:
+      213: -1274028479060451195
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_33
+  - first:
+      213: -3808991024359119308
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_34
+  - first:
+      213: 6207955325675790773
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_35
+  - first:
+      213: -2136453159390719072
+    second: Mossy_Hollow_Ground_TL
+  - first:
+      213: 6356473941358855185
+    second: Mossy_Hollow_Ground_TM
+  - first:
+      213: -5355632498164636773
+    second: Mossy_Hollow_Ground_TR
+  - first:
+      213: 8557436718848008951
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_39
+  - first:
+      213: -2648332819769261274
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_40
+  - first:
+      213: 6719520516859808831
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_41
+  - first:
+      213: -1495461530490683891
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_42
+  - first:
+      213: 8889205899758979728
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_43
+  - first:
+      213: 1544216433437052968
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_44
+  - first:
+      213: -2586401127543760963
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_45
+  - first:
+      213: -5676845571226859125
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_46
+  - first:
+      213: 6046100495420018633
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_47
+  - first:
+      213: 7678769639883994144
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_48
+  - first:
+      213: -4906642312775604542
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_49
+  - first:
+      213: 5637642254664743168
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_50
+  - first:
+      213: -1013264222765555487
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_51
+  - first:
+      213: 3415306731454907575
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_52
+  - first:
+      213: 8255396006658379284
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_53
+  - first:
+      213: 3426204229704713210
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_54
+  - first:
+      213: 5579360439364045744
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_55
+  - first:
+      213: 1074705928401686766
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_56
+  - first:
+      213: -6537758647986638740
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_57
+  - first:
+      213: -1197221913678741068
+    second: Mossy_Hollow_Ground_CL
+  - first:
+      213: -5015685145348228547
+    second: Mossy_Hollow_Ground_Center
+  - first:
+      213: 3335050714071527032
+    second: Mossy_Hollow_Ground_CR
+  - first:
+      213: -7693076892834338429
+    second: Mossy_Hollow_Ground_Center_Alt_1
+  - first:
+      213: -6050889845625936973
+    second: Mossy_Hollow_Ground_Center_Alt_2
+  - first:
+      213: 4034487774539232294
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_63
+  - first:
+      213: -4407552470940596061
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_64
+  - first:
+      213: 4085321106052491720
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_65
+  - first:
+      213: -2144583090029002393
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_66
+  - first:
+      213: -5251134895685413508
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_67
+  - first:
+      213: 360284650592836054
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_68
+  - first:
+      213: 4703866774946351890
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_69
+  - first:
+      213: -8714173081921546536
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_70
+  - first:
+      213: 6788550619547758183
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_71
+  - first:
+      213: -4792315796580971322
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_72
+  - first:
+      213: -8453663889489560384
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_73
+  - first:
+      213: 4469669467761347478
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_74
+  - first:
+      213: -1194925280734135600
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_75
+  - first:
+      213: 5056933850537664362
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_76
+  - first:
+      213: 3910277551296091872
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_77
+  - first:
+      213: 7331266753614614475
+    second: Mossy_Hollow_Ground_BL
+  - first:
+      213: -9040788115779408454
+    second: Mossy_Hollow_Ground_BM
+  - first:
+      213: 1386814428139334590
+    second: Mossy_Hollow_Ground_BR
+  - first:
+      213: -6818168922917324957
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_81
+  - first:
+      213: -1113520322711232602
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_82
+  - first:
+      213: -6018078541361834686
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_83
+  - first:
+      213: -1803125772049134761
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_84
+  - first:
+      213: 3682813456611735116
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_85
+  - first:
+      213: -6573394776653790877
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_86
+  - first:
+      213: 1037032351420758553
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_87
+  - first:
+      213: -6743831140271141631
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_88
+  - first:
+      213: 5114729951484134982
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_89
+  - first:
+      213: 2798224080318475362
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_90
+  - first:
+      213: 7805542929756458708
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_91
+  - first:
+      213: -6651099576813372238
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_92
+  - first:
+      213: 7703748768474124716
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_93
+  - first:
+      213: 4420676136659096397
+    second: Mossy_Hollow_Ground_TL_2
+  - first:
+      213: 5670501888812689262
+    second: Mossy_Hollow_Ground_TM_2
+  - first:
+      213: -7430374873972830424
+    second: Mossy_Hollow_Ground_TR_2
+  - first:
+      213: -1287997216484823286
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_97
+  - first:
+      213: 5989138542082586537
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_98
+  - first:
+      213: -5477877531334860829
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_99
+  - first:
+      213: -3597116975370378382
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_100
+  - first:
+      213: 2756086210128111818
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_101
+  - first:
+      213: -7167178354142980204
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_102
+  - first:
+      213: 4092494023167076507
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_103
+  - first:
+      213: 1555421089862185690
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_104
+  - first:
+      213: 3217510271505618464
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_105
+  - first:
+      213: -560383126639122186
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_106
+  - first:
+      213: 5299791591368610342
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_107
+  - first:
+      213: -5749635276241515319
+    second: Mossy_Hollow_Ground_CL_2
+  - first:
+      213: -53152932755879657
+    second: Mossy_Hollow_Ground_Center_2
+  - first:
+      213: 2460455480234731439
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_110
+  - first:
+      213: -5792021645371927402
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_111
+  - first:
+      213: 336946539991164024
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_112
+  - first:
+      213: -5323246652357710198
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_113
+  - first:
+      213: 1858600793500371928
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_114
+  - first:
+      213: -4415776513016451027
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_115
+  - first:
+      213: 15637234977891155
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_116
+  - first:
+      213: -2552207302988148717
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_117
+  - first:
+      213: 2749713329006684270
+    second: Mossy_Hollow_Ground_BL_2
+  - first:
+      213: -1177718449824160591
+    second: Mossy_Hollow_Ground_BR_2
+  - first:
+      213: 7371493680089667946
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_120
+  - first:
+      213: -7879846133125102380
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_121
+  - first:
+      213: 6526678058008966858
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_122
+  - first:
+      213: 4607390006428787309
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_123
+  - first:
+      213: -1603628395075392371
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_124
+  - first:
+      213: -857243774103741213
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_125
+  - first:
+      213: -2236870631063259700
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_126
+  - first:
+      213: 4929507688603826061
+    second: Mossy_Hollow_Ground_TM_3
+  - first:
+      213: -6207712876126693330
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_128
+  - first:
+      213: 2147028747431487871
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_129
+  - first:
+      213: -5052441996515779925
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_130
+  - first:
+      213: 2959324151478839910
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_131
+  - first:
+      213: 694870454814219838
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_132
+  - first:
+      213: -6207356227866133667
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_133
+  - first:
+      213: 160590056389450141
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_134
+  - first:
+      213: -3916533157756338382
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_135
+  - first:
+      213: -2780800842012559027
+    second: Mossy_Hollow_Ground_CL_3
+  - first:
+      213: -7266586426028708870
+    second: Mossy_Hollow_Ground_Center_3
+  - first:
+      213: -4078002975200905455
+    second: Mossy_Hollow_Ground_CR_2
+  - first:
+      213: 1543113146792337668
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_139
+  - first:
+      213: -1971853961569183238
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_140
+  - first:
+      213: 8801475989458553669
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_141
+  - first:
+      213: -3940186651788751115
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_142
+  - first:
+      213: -3110252861922593736
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_143
+  - first:
+      213: 4153173840360499698
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_144
+  - first:
+      213: -744906571548996023
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_145
+  - first:
+      213: -6187193200109434626
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_146
+  - first:
+      213: 8665957714326203546
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_147
+  - first:
+      213: -331350332977245337
+    second: Mossy_Hollow_Ground_BM_3
+  - first:
+      213: -5382427579245693713
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_149
+  - first:
+      213: -1759333903296531809
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_150
+  - first:
+      213: -3381574162989669661
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_151
+  - first:
+      213: 7818123910006524724
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_152
+  - first:
+      213: -263050679675799340
+    second: Mossy_Hollow_Ground_TM_4
+  - first:
+      213: 2190027128369133922
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_154
+  - first:
+      213: -4050856186591215631
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_155
+  - first:
+      213: -5493745891332418581
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_156
+  - first:
+      213: -6964570938165580079
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_157
+  - first:
+      213: 953646304813370896
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_158
+  - first:
+      213: 2098116524321638826
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_159
+  - first:
+      213: -7226700737799255266
+    second: Mossy_Hollow_Ground_CL_4
+  - first:
+      213: -9038715131473775060
+    second: Mossy_Hollow_Ground_CR_3
+  - first:
+      213: -1822748367646012098
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_162
+  - first:
+      213: 4980851450678533116
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_163
+  - first:
+      213: -2922366270048804955
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_164
+  - first:
+      213: 7851179151379325048
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_165
+  - first:
+      213: 458527653817655739
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_166
+  - first:
+      213: 2769097825597453453
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_167
+  - first:
+      213: -8570028164592389104
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_168
+  - first:
+      213: 3786052464491120377
+    second: Mossy_Hollow_Ground_BM_4
+  - first:
+      213: -7331932365422320764
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_170
+  - first:
+      213: -1772287584376212471
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_171
+  - first:
+      213: 5569055286364648430
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_172
+  - first:
+      213: 7049329973902397874
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_173
+  - first:
+      213: -7749742633041799330
+    second: Mossy_Hollow_Ground_TM_5
+  - first:
+      213: -7684680003292519059
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_175
+  - first:
+      213: 8402204470458511954
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_176
+  - first:
+      213: 4380182268237647346
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_177
+  - first:
+      213: -7880510714145790010
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_178
+  - first:
+      213: -7923832920391455209
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_179
+  - first:
+      213: 7235079922928395109
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_180
+  - first:
+      213: 7531628246947337976
+    second: Mossy_Hollow_Ground_CL_5
+  - first:
+      213: -1174372664194901583
+    second: Mossy_Hollow_Ground_CR_4
+  - first:
+      213: 1364050191793155713
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_183
+  - first:
+      213: -1776799723142912212
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_184
+  - first:
+      213: 66779600638780212
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_185
+  - first:
+      213: -2047973295591761429
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_186
+  - first:
+      213: 3644119327786257046
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_187
+  - first:
+      213: 8221221455986113923
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_188
+  - first:
+      213: 6414173563868690860
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_189
+  - first:
+      213: 6105257340948570349
+    second: Mossy_Hollow_Ground_BM_5
+  - first:
+      213: -4306389628686066255
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_191
+  - first:
+      213: -3102685374684944956
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_192
+  - first:
+      213: -135721715764367349
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_193
+  - first:
+      213: 615085760408352002
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_194
+  - first:
+      213: 1464011498220113749
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_195
+  - first:
+      213: 7612831501437660641
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_196
+  - first:
+      213: -3212376893935378505
+    second: Mossy_Hollow_Ground_TL_6
+  - first:
+      213: -7886554356658647074
+    second: Mossy_Hollow_Ground_TM_6
+  - first:
+      213: 8917039893745053265
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_199
+  - first:
+      213: -1723641384642674073
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_200
+  - first:
+      213: -2047264948619546765
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_201
+  - first:
+      213: 1024841198837940345
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_202
+  - first:
+      213: 8047298804603709052
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_203
+  - first:
+      213: 7050353892567993792
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_204
+  - first:
+      213: -3257736669510630246
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_205
+  - first:
+      213: -6507125455685741474
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_206
+  - first:
+      213: -2256135207241229494
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_207
+  - first:
+      213: -176166325583588630
+    second: Mossy_Hollow_Ground_Center_6
+  - first:
+      213: 4575070573700065666
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_209
+  - first:
+      213: -385376107313785487
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_210
+  - first:
+      213: 2389795380034323718
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_211
+  - first:
+      213: -4789603839521694792
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_212
+  - first:
+      213: 6499294392924537128
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_213
+  - first:
+      213: -2050704272198543447
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_214
+  - first:
+      213: 2805946068482531354
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_215
+  - first:
+      213: 7433856000114491435
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_216
+  - first:
+      213: 704364647883615722
+    second: Mossy_Hollow_Ground_CL_6
+  - first:
+      213: -5428271411755969998
+    second: Mossy_Hollow_Ground_CR_5
+  - first:
+      213: 486945853319144200
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_219
+  - first:
+      213: 1131135398903054744
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_220
+  - first:
+      213: -5944397191558085644
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_221
+  - first:
+      213: -3473742521381938947
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_222
+  - first:
+      213: 2654379092893635874
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_223
+  - first:
+      213: 5095589878457424315
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_224
+  - first:
+      213: -778320431176257144
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_225
+  - first:
+      213: -4239000951948188718
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_226
+  - first:
+      213: 2175535540273139548
+    second: Mossy_Hollow_Ground_CL_7
+  - first:
+      213: 2161509304532946001
+    second: Mossy_Hollow_Ground_CR_6
+  - first:
+      213: -293919323752859966
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_229
+  - first:
+      213: 288381697908553473
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_230
+  - first:
+      213: 58619730767815083
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_231
+  - first:
+      213: -4130161880574202623
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_232
+  - first:
+      213: 3852527193356350084
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_233
+  - first:
+      213: 2288467091980370711
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_234
+  - first:
+      213: -4476384108714103134
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_235
+  - first:
+      213: 3181250446458151308
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_236
+  - first:
+      213: 3624210940070835500
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_237
+  - first:
+      213: -3872828456326637358
+    second: Mossy_Hollow_Ground_TM_7
+  - first:
+      213: 4323692774833513084
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_239
+  - first:
+      213: -8510993674361497330
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_240
+  - first:
+      213: -2635017447231894652
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_241
+  - first:
+      213: 338861185153592476
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_242
+  - first:
+      213: -8867032313505179495
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_243
+  - first:
+      213: 6158803196346573618
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_244
+  - first:
+      213: 929778463437689184
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_245
+  - first:
+      213: -1083009179130604515
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_246
+  - first:
+      213: -4158775504668808277
+    second: Mossy_Hollow_Ground_BM_6
+  - first:
+      213: 39987004862949852
+    second: Mossy_Hollow_Ground_BM_7
+  - first:
+      213: -6986036997744162307
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_249
+  - first:
+      213: 5263632560946856761
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_250
+  - first:
+      213: -8734947282988664164
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_251
+  - first:
+      213: -1841525566025100999
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_252
+  - first:
+      213: -277639506569849822
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_253
+  - first:
+      213: -680892731802721773
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_254
+  - first:
+      213: -4080809252259496232
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_255
+  - first:
+      213: 3462342784749736261
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_256
+  - first:
+      213: -2256235893479063019
+    second: Mossy_Hollow_Ground_TL_8
+  - first:
+      213: 6676092574779083181
+    second: Mossy_Hollow_Ground_Normal_6
+  - first:
+      213: 8051020700073022207
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_259
+  - first:
+      213: -5505538591051654954
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_260
+  - first:
+      213: -7578874479478226776
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_261
+  - first:
+      213: -7338541252161023904
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_262
+  - first:
+      213: 8216326770984481740
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_263
+  - first:
+      213: -6144134577350545879
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_264
+  - first:
+      213: -9061807716890447242
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_265
+  - first:
+      213: -7153026748858499280
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_266
+  - first:
+      213: 6456266529682126213
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_267
+  - first:
+      213: 1699663496020974190
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_268
+  - first:
+      213: -5428374525412390005
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_269
+  - first:
+      213: 3600792043013566161
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_270
+  - first:
+      213: 1361601884165763810
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_271
+  - first:
+      213: 668815639814630610
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_272
+  - first:
+      213: 5182307924169348762
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_273
+  - first:
+      213: 1086714344964228603
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_274
+  - first:
+      213: 3916488525947421472
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_275
+  - first:
+      213: 3486481355377334705
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_276
+  - first:
+      213: 5019474365287689441
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_277
+  - first:
+      213: -7654876356545428842
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_278
+  - first:
+      213: 8488271145994986355
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_279
+  - first:
+      213: -2136868480726686423
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_280
+  - first:
+      213: -5844290698951697739
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_281
+  - first:
+      213: 6273393273145608832
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_282
+  - first:
+      213: 1670806157136355936
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_283
+  - first:
+      213: -7545995236570993286
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_284
+  - first:
+      213: -5307417756274448333
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_285
+  - first:
+      213: 7082539689946830619
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_286
+  - first:
+      213: -7497538793595654104
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_287
+  - first:
+      213: 772065040231342924
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_288
+  - first:
+      213: -4152216325207344807
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_289
+  - first:
+      213: 5803993042667923201
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_290
+  - first:
+      213: 5342650525464201102
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_291
+  - first:
+      213: 676971104172845033
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_292
+  - first:
+      213: 8448685009080084862
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_293
+  - first:
+      213: -2880569861440235543
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_294
+  - first:
+      213: 6930155421850801590
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_295
+  - first:
+      213: -161519056955659329
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_296
+  - first:
+      213: -7035364213893554279
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_297
+  - first:
+      213: -4109676056403069027
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_298
+  - first:
+      213: -1332124610589255221
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_299
+  - first:
+      213: -8875029213928922683
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_300
+  - first:
+      213: 688229602756719755
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_301
+  - first:
+      213: -8361320321869858888
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_302
+  - first:
+      213: 3361607439438020539
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_303
+  - first:
+      213: -5605489340585931584
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_304
+  - first:
+      213: 6821961307565031280
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_305
+  - first:
+      213: -7038067735562104980
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_306
+  - first:
+      213: -7270037684730004340
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_307
+  - first:
+      213: 7076923764820971829
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_308
+  - first:
+      213: 4762677036785641359
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_309
+  - first:
+      213: 2260777718052111831
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_310
+  - first:
+      213: 7134192861593655774
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_311
+  - first:
+      213: -8899372529021763895
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_312
+  - first:
+      213: -4111466660889629538
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_313
+  - first:
+      213: -246436331009515973
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_314
+  - first:
+      213: 4350436738704208735
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_315
+  - first:
+      213: 5533823283508156476
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_316
+  - first:
+      213: -8190686697470842946
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_317
+  - first:
+      213: 8640636286025634528
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_318
+  - first:
+      213: 9018544074940968592
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_319
+  - first:
+      213: 3415638566179781934
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_320
+  - first:
+      213: 8437177466796116492
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_321
+  - first:
+      213: -5438777220936831402
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_322
+  - first:
+      213: 6640819611991379717
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_323
+  - first:
+      213: -6671734090977148045
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_324
+  - first:
+      213: 892168801816670039
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_325
+  - first:
+      213: 7439986151340088142
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_326
+  - first:
+      213: 252784101966920905
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_327
+  - first:
+      213: -5127185097024507863
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_328
+  - first:
+      213: 640842877190104136
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_329
+  - first:
+      213: -2527288895813137521
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_330
+  - first:
+      213: 8023772270950804727
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_331
+  - first:
+      213: 7466615140171703364
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_332
+  - first:
+      213: -8916953860280901341
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_333
+  - first:
+      213: -8863013978679198142
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_334
+  - first:
+      213: 6883299764051210298
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_335
+  - first:
+      213: 3329188308289659117
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_336
+  - first:
+      213: 6257316900281008094
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_337
+  - first:
+      213: 89784622087189026
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_338
+  - first:
+      213: -7543402566673702106
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_339
+  - first:
+      213: -4765988908913033117
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_340
+  - first:
+      213: 1692837528465085470
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_341
+  - first:
+      213: 3986784786235922245
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_342
+  - first:
+      213: -7589210585216665210
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_343
+  - first:
+      213: 3075240152813216421
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_344
+  - first:
+      213: 2493634898355719011
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_345
+  - first:
+      213: -7065407558157379354
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_346
+  - first:
+      213: 3122885111331799852
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_347
+  - first:
+      213: 6218483313692853815
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_348
+  - first:
+      213: 471547669908528723
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_349
+  - first:
+      213: 8006966400067102809
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_350
+  - first:
+      213: 4936765087257242102
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_351
+  - first:
+      213: -2607802464025319318
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_352
+  - first:
+      213: 8506379166121160546
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_353
+  - first:
+      213: 4501347356186827512
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_354
+  - first:
+      213: -4522025939463979693
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_355
+  - first:
+      213: -8978456966716065264
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_356
+  - first:
+      213: 3552201597634018951
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_357
+  - first:
+      213: -2538253652541244579
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_358
+  - first:
+      213: 147930928944223737
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_359
+  - first:
+      213: 3148551885928209214
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_360
+  - first:
+      213: 3373110000575430564
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_361
+  - first:
+      213: -3725629928002890432
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_362
+  - first:
+      213: 1144128972776004648
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_363
+  - first:
+      213: -6965048231279497043
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_364
+  - first:
+      213: 6988643567654739185
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_365
+  - first:
+      213: -7385552953926132868
+    second: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_366
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 3
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 3
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 3
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6708a03f5aa7f0800000000000000
+      internalID: -600562937718411328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc11233dbb5b080800000000000000
+      internalID: -9172218550317625955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ecf8a805ee5f30800000000000000
+      internalID: 4566338897557906101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4f2e09032d57e0800000000000000
+      internalID: -1775224156314448379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628768f05d78bafa0800000000000000
+      internalID: -5788383546896386010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580eedf29ddb15ee0800000000000000
+      internalID: -1274028479060451195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4366c6028deb32bc0800000000000000
+      internalID: -3808991024359119308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b166604a76172650800000000000000
+      internalID: 6207955325675790773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TL
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a35143cb2bc952e0800000000000000
+      internalID: -2136453159390719072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TM
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c8b22f5bb63850800000000000000
+      internalID: 6356473941358855185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TR
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93eb574e98fca5b0800000000000000
+      internalID: -5355632498164636773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e1d64b5f12c670800000000000000
+      internalID: 8557436718848008951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_40
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305a6f45b3f3bd0800000000000000
+      internalID: -2648332819769261274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc06cfe48804d50800000000000000
+      internalID: 6719520516859808831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_42
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e37db49ad0f3be0800000000000000
+      internalID: -1495461530490683891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_43
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac0763badcc5b70800000000000000
+      internalID: 8889205899758979728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_44
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82016532aa82e6510800000000000000
+      internalID: 1544216433437052968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89064ab70bc731b0800000000000000
+      internalID: -5676845571226859125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfc2d1fd5018e350800000000000000
+      internalID: 6046100495420018633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_48
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f659bd48709a60800000000000000
+      internalID: 7678769639883994144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6eb1320da18ebb0800000000000000
+      internalID: -4906642312775604542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093608d2cdec3e40800000000000000
+      internalID: 5637642254664743168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_51
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06272de8920f1f0800000000000000
+      internalID: -1013264222765555487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ce5f806b956f20800000000000000
+      internalID: 3415306731454907575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_53
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0d09ddee019270800000000000000
+      internalID: 8255396006658379284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af38d7718925c8f20800000000000000
+      internalID: 3426204229704713210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb492642cedd6d40800000000000000
+      internalID: 5579360439364045744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0936c095f1aee00800000000000000
+      internalID: 1074705928401686766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_57
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60b48fe5273545a0800000000000000
+      internalID: -6537758647986638740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CL
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b18ddd330d926fe0800000000000000
+      internalID: -1197221913678741068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_Center
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab05e3fe4b46ab0800000000000000
+      internalID: -5015685145348228547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CR
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e652064fa784e20800000000000000
+      internalID: 3335050714071527032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_Center_Alt_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e7dc5353bc3590800000000000000
+      internalID: -7693076892834338429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_Center_Alt_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a2709ebbe60ca0800000000000000
+      internalID: -6050889845625936973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_63
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624311c51416df730800000000000000
+      internalID: 4034487774539232294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_64
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8c0b0416a35d2c0800000000000000
+      internalID: -4407552470940596061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_65
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c92aa7a6e9f1b830800000000000000
+      internalID: 4085321106052491720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_66
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7610387ca09ec32e0800000000000000
+      internalID: -2144583090029002393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_67
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75530352a83027b0800000000000000
+      internalID: -5251134895685413508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_68
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99c981bfcfff400800000000000000
+      internalID: 360284650592836054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d69bcc60c9011780800000000000000
+      internalID: -8714173081921546536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee6e932d6c53e50800000000000000
+      internalID: 6788550619547758183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_72
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc4c4d7c264e7db0800000000000000
+      internalID: -4792315796580971322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7d606b7d8eaa80800000000000000
+      internalID: -8453663889489560384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b035913b4770e30800000000000000
+      internalID: 4469669467761347478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da35b4c9c5ca6fe0800000000000000
+      internalID: -1194925280734135600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_76
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f12f55b86dd2640800000000000000
+      internalID: 5056933850537664362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6103227b8144630800000000000000
+      internalID: 3910277551296091872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BL
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf84da0544edb560800000000000000
+      internalID: 7331266753614614475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BM
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd256ddb1ba88280800000000000000
+      internalID: -9040788115779408454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BR
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba1aeef54fe3310800000000000000
+      internalID: 1386814428139334590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_81
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b7e22d7ff061a0800000000000000
+      internalID: -6818168922917324957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_82
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5e9a8a2bfb80f0800000000000000
+      internalID: -1113520322711232602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_83
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2451ab7a37d7b7ca0800000000000000
+      internalID: -6018078541361834686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_84
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc8a7e9a20af6e0800000000000000
+      internalID: -1803125772049134761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_85
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46fe5f835bfb1330800000000000000
+      internalID: 3682813456611735116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_86
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3618429274c96c4a0800000000000000
+      internalID: -6573394776653790877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dcbeaee491962a0800000000000000
+      internalID: -6743831140271141631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6464348bacb2bf640800000000000000
+      internalID: 5114729951484134982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_90
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca355b9f945d620800000000000000
+      internalID: 2798224080318475362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de023760fbd25c60800000000000000
+      internalID: 7805542929756458708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_92
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb9468c2c82b3a0800000000000000
+      internalID: -6651099576813372238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_93
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d0cf40b639ea60800000000000000
+      internalID: 7703748768474124716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TL_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439c984685695d30800000000000000
+      internalID: 4420676136659096397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TM_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67acdc9c6ba1be40800000000000000
+      internalID: 5670501888812689262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TR_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f8cd08b6102e890800000000000000
+      internalID: -7430374873972830424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_97
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0feabf0b5d102ee0800000000000000
+      internalID: -1287997216484823286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_98
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7fe6fa5c1bd1350800000000000000
+      internalID: 5989138542082586537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_99
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef11b5886baaf3b0800000000000000
+      internalID: -5477877531334860829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_100
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27365835b29741ec0800000000000000
+      internalID: -3597116975370378382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_101
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e9054ec59f3620800000000000000
+      internalID: 2756086210128111818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_102
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497507f9241198c90800000000000000
+      internalID: -7167178354142980204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f2618d37f59510800000000000000
+      internalID: 1555421089862185690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026534a7b84e6ac20800000000000000
+      internalID: 3217510271505618464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f86d8ee38e1938f0800000000000000
+      internalID: -560383126639122186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_107
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622d0237f54ac8940800000000000000
+      internalID: 5299791591368610342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CL_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc19bdd213530b0800000000000000
+      internalID: -5749635276241515319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_Center_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c05470b9234ff0800000000000000
+      internalID: -53152932755879657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_110
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ed05293b452220800000000000000
+      internalID: 2460455480234731439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_111
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949b30400b9e9fa0800000000000000
+      internalID: -5792021645371927402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_112
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8746878c7131da400800000000000000
+      internalID: 336946539991164024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_113
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e6e6a9f570026b0800000000000000
+      internalID: -5323246652357710198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db49db03931bc910800000000000000
+      internalID: 1858600793500371928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_115
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20342e38a208b2c0800000000000000
+      internalID: -4415776513016451027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353602c7bfd873000800000000000000
+      internalID: 15637234977891155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_117
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310db38eafcb49cd0800000000000000
+      internalID: -2552207302988148717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BL_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68a99144b1f82620800000000000000
+      internalID: 2749713329006684270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BR_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4aec84f47e7afe0800000000000000
+      internalID: -1177718449824160591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_120
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6918c9327ecc4660800000000000000
+      internalID: 7371493680089667946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_121
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c75ee0b925a290800000000000000
+      internalID: -7879846133125102380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_122
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f5fa2d1b639a50800000000000000
+      internalID: 6526678058008966858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_123
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626fd2ccccb0ff30800000000000000
+      internalID: 4607390006428787309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_125
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec91ae44557a14f0800000000000000
+      internalID: -857243774103741213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_126
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc578f2330a05f0e0800000000000000
+      internalID: -2236870631063259700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TM_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b9c80021296440800000000000000
+      internalID: 4929507688603826061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_128
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2899de6706c9d9a0800000000000000
+      internalID: -6207712876126693330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_129
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a4353547cbcd10800000000000000
+      internalID: 2147028747431487871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa596de5ce12e9b0800000000000000
+      internalID: -5052441996515779925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_131
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6128f2a1a11920800000000000000
+      internalID: 2959324151478839910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_132
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9d104ffca4a900800000000000000
+      internalID: 694870454814219838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_133
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bfab3166a0bd9a0800000000000000
+      internalID: -6207356227866133667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_134
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d999d813ec78a3200800000000000000
+      internalID: 160590056389450141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff4ecf7dda5a9c0800000000000000
+      internalID: -3916533157756338382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CL_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49fbb41e5c9869d0800000000000000
+      internalID: -2780800842012559027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_Center_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb22e24526e72b90800000000000000
+      internalID: -7266586426028708870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CR_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f92676e50867c0800000000000000
+      internalID: -4078002975200905455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_139
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401eac23b3d3a6510800000000000000
+      internalID: 1543113146792337668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_140
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9d8bfe44192a4e0800000000000000
+      internalID: -1971853961569183238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_141
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8ecab7cf152a70800000000000000
+      internalID: 8801475989458553669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_142
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe456fbd15a159c0800000000000000
+      internalID: -3940186651788751115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_143
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834367b308926d4d0800000000000000
+      internalID: -3110252861922593736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_144
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9e1257a9903a930800000000000000
+      internalID: 4153173840360499698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c3cec09ca22aa0800000000000000
+      internalID: -6187193200109434626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_147
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c28f080aaa34870800000000000000
+      internalID: 8665957714326203546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BM_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631fa2b0aec66bf0800000000000000
+      internalID: -331350332977245337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_149
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe47bcd42a6cd45b0800000000000000
+      internalID: -5382427579245693713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_150
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9275b4e2279597e0800000000000000
+      internalID: -1759333903296531809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_151
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ac51173c3211d0800000000000000
+      internalID: -3381574162989669661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_152
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4de1264e8f7c60800000000000000
+      internalID: 7818123910006524724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TM_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8bfffecc4795cf0800000000000000
+      internalID: -263050679675799340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_154
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26939eae11a846e10800000000000000
+      internalID: 2190027128369133922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_155
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff790ab2c778c7c0800000000000000
+      internalID: -4050856186591215631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_156
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be39edc083b42c3b0800000000000000
+      internalID: -5493745891332418581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_157
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea1a1b1afd85f90800000000000000
+      internalID: -6964570938165580079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_158
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ec3c7f2480c3d00800000000000000
+      internalID: 953646304813370896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_159
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98191dcd10e1d10800000000000000
+      internalID: 2098116524321638826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CL_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b0c69b7f995bb90800000000000000
+      internalID: -7226700737799255266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CR_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26be822a78009280800000000000000
+      internalID: -9038715131473775060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_162
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4987540c44b6e0800000000000000
+      internalID: -1822748367646012098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_163
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbdea4310a8f1540800000000000000
+      internalID: 4980851450678533116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_164
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af582a5c5ba177d0800000000000000
+      internalID: -2922366270048804955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_165
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870eae147ddf4fc60800000000000000
+      internalID: 7851179151379325048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_167
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84fa031dcfcd6620800000000000000
+      internalID: 2769097825597453453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_168
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014b06e4ac4211980800000000000000
+      internalID: -8570028164592389104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BM_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f64cf638a2ca8430800000000000000
+      internalID: 3786052464491120377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_170
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48320d12c5ebf3a90800000000000000
+      internalID: -7331932365422320764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_171
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904bb6df4d19767e0800000000000000
+      internalID: -1772287584376212471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_172
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b64ed642494d40800000000000000
+      internalID: 5569055286364648430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_173
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b157f6234044d160800000000000000
+      internalID: 7049329973902397874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TM_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d7d89222637490800000000000000
+      internalID: -7749742633041799330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_175
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65a33f80488a5590800000000000000
+      internalID: -7684680003292519059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_176
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f0e7f270aa9470800000000000000
+      internalID: 8402204470458511954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_177
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd05c5d09889cc30800000000000000
+      internalID: 4380182268237647346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_178
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c72eaa124dc2a290800000000000000
+      internalID: -7880510714145790010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6580f0f3e80290800000000000000
+      internalID: -7923832920391455209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_180
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56325b75bda286460800000000000000
+      internalID: 7235079922928395109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CL_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6189f7cf7b58860800000000000000
+      internalID: 7531628246947337976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CR_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9dbb4b84ac3bfe0800000000000000
+      internalID: -1174372664194901583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_183
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e62a12c641ee210800000000000000
+      internalID: 1364050191793155713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_184
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ed01d01a8757e0800000000000000
+      internalID: -1776799723142912212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_185
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433215661bf3de000800000000000000
+      internalID: 66779600638780212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_186
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be954c663232493e0800000000000000
+      internalID: -2047973295591761429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_188
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3fd73b55a71270800000000000000
+      internalID: 8221221455986113923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_189
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca938126fd8b30950800000000000000
+      internalID: 6414173563868690860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BM_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e59d543b3ab450800000000000000
+      internalID: 6105257340948570349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_191
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd9dbde271ac34c0800000000000000
+      internalID: -4306389628686066255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_192
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5aa18271c01f4d0800000000000000
+      internalID: -3102685374684944956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_193
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00fe8f81d1dd1ef0800000000000000
+      internalID: -135721715764367349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_194
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057a8f7d39398800800000000000000
+      internalID: 615085760408352002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_195
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4f7273b6315410800000000000000
+      internalID: 1464011498220113749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_196
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed68128ae536a960800000000000000
+      internalID: 7612831501437660641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TL_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1f402c385b63d0800000000000000
+      internalID: -3212376893935378505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TM_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4d8de8945d8290800000000000000
+      internalID: -7886554356658647074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_199
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e29a2f980bfbb70800000000000000
+      internalID: 8917039893745053265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_200
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762063cfa456418e0800000000000000
+      internalID: -1723641384642674073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_201
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6c684067a693e0800000000000000
+      internalID: -2047264948619546765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_202
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970cbe7f3a7f83e00800000000000000
+      internalID: 1024841198837940345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7664d950afbdaf60800000000000000
+      internalID: 8047298804603709052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_204
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdce4bc283e7d160800000000000000
+      internalID: 7050353892567993792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_205
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a940e0262c13ac2d0800000000000000
+      internalID: -3257736669510630246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_206
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5413f0dfdb02b5a0800000000000000
+      internalID: -6507125455685741474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_207
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b52278bf890b0e0800000000000000
+      internalID: -2256135207241229494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_Center_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2543609a12e8df0800000000000000
+      internalID: -176166325583588630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_209
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892cbf627aed7f30800000000000000
+      internalID: 4575070573700065666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_210
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17593a2e87ed6aaf0800000000000000
+      internalID: -385376107313785487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_211
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c0d88c324a2120800000000000000
+      internalID: 2389795380034323718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_212
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb56723fa8e78db0800000000000000
+      internalID: -4789603839521694792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_213
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82184fcc0d1223a50800000000000000
+      internalID: 6499294392924537128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_214
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7da3c545f6a83e0800000000000000
+      internalID: -2050704272198543447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_215
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a102ece2519b0f620800000000000000
+      internalID: 2805946068482531354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_216
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200b3655ac5a2760800000000000000
+      internalID: 7433856000114491435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CL_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed22755ae766c900800000000000000
+      internalID: 704364647883615722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CR_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23290e549e7eaa4b0800000000000000
+      internalID: -5428271411755969998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_219
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803efe37caaf1c600800000000000000
+      internalID: 486945853319144200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_220
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918c7cf6a992bf00800000000000000
+      internalID: 1131135398903054744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_221
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c951cf32418da0800000000000000
+      internalID: -5944397191558085644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_222
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df81cdbd499cacfc0800000000000000
+      internalID: -3473742521381938947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_223
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2251623b8bf36d420800000000000000
+      internalID: 2654379092893635874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_224
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d7823ffb27b640800000000000000
+      internalID: 5095589878457424315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_225
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817f4a01b9d235f0800000000000000
+      internalID: -778320431176257144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_226
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e598e71b0c25c0800000000000000
+      internalID: -4239000951948188718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CL_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc7322c0e013e10800000000000000
+      internalID: 2175535540273139548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_CR_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c4363a2493ffd10800000000000000
+      internalID: 2161509304532946001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_229
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6761baee9cbebf0800000000000000
+      internalID: -293919323752859966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_230
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107309750a9800400800000000000000
+      internalID: 288381697908553473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_231
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ae35a55240d000800000000000000
+      internalID: 58619730767815083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_232
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de383f6a7bea6c0800000000000000
+      internalID: -4130161880574202623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_233
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b98f121de67530800000000000000
+      internalID: 3852527193356350084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_234
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71349a102b442cf10800000000000000
+      internalID: 2288467091980370711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_235
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae64e9be50b0e1c0800000000000000
+      internalID: -4476384108714103134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_236
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e0b21d62162c20800000000000000
+      internalID: 3181250446458151308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_237
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b10ae5a8cb4230800000000000000
+      internalID: 3624210940070835500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TM_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d850a0c903f04ac0800000000000000
+      internalID: -3872828456326637358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_239
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72efd9bba7d00c30800000000000000
+      internalID: 4323692774833513084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_240
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09161aa850e2e980800000000000000
+      internalID: -8510993674361497330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_241
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b49c8b7998e6bd0800000000000000
+      internalID: -2635017447231894652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_242
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6f39d370e3b400800000000000000
+      internalID: 338861185153592476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_243
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9981d952719f1f480800000000000000
+      internalID: -8867032313505179495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_244
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23327c750e6787550800000000000000
+      internalID: 6158803196346573618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_245
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611309169c37ec00800000000000000
+      internalID: 929778463437689184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_246
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14de6db3e068f0f0800000000000000
+      internalID: -1083009179130604515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BM_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babae9f66bf0946c0800000000000000
+      internalID: -4158775504668808277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_BM_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9ec7418ff0e8000800000000000000
+      internalID: 39987004862949852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_249
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df909b93d5c9c0f90800000000000000
+      internalID: -6986036997744162307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_250
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933ca6f1ded2c0940800000000000000
+      internalID: 5263632560946856761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_251
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a72b1d9bb37c680800000000000000
+      internalID: -8734947282988664164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_252
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931164821469176e0800000000000000
+      internalID: -1841525566025100999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_253
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241a4bf650a52cf0800000000000000
+      internalID: -277639506569849822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_254
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e0cefaabfc86f0800000000000000
+      internalID: -680892731802721773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_255
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8def1fa2b9d0e57c0800000000000000
+      internalID: -4080809252259496232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_256
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54115af1b66bc0030800000000000000
+      internalID: 3462342784749736261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_TL_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c1bfa86d30b0e0800000000000000
+      internalID: -2256235893479063019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy_Hollow_Ground_Normal_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9845743de36ac50800000000000000
+      internalID: 6676092574779083181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_259
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff25b2baba8fabf60800000000000000
+      internalID: 8051020700073022207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_260
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8592f22d56893b0800000000000000
+      internalID: -5505538591051654954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_261
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04d65c0dd62d690800000000000000
+      internalID: -7578874479478226776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_262
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605467cc93482a90800000000000000
+      internalID: -7338541252161023904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_263
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ff0f8aa1460270800000000000000
+      internalID: 8216326770984481740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_264
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e63d8a726abbaa0800000000000000
+      internalID: -6144134577350545879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_265
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672f9db94edfd3280800000000000000
+      internalID: -9061807716890447242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_266
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ffb6df1185bbc90800000000000000
+      internalID: -7153026748858499280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_267
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58572f4b334499950800000000000000
+      internalID: 6456266529682126213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_268
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a5706c1fa669710800000000000000
+      internalID: 1699663496020974190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_269
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc301412a8aa4b0800000000000000
+      internalID: -5428374525412390005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_270
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de60e9094598f130800000000000000
+      internalID: 3600792043013566161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_271
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f33713b165e210800000000000000
+      internalID: 1361601884165763810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_272
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc6067e74c184900800000000000000
+      internalID: 668815639814630610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_273
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a965ec899914be740800000000000000
+      internalID: 5182307924169348762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_274
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf50ae760f8c41f00800000000000000
+      internalID: 1086714344964228603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_275
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234dfb50992a5630800000000000000
+      internalID: 3916488525947421472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_276
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9d94f0258726030800000000000000
+      internalID: 3486481355377334705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_277
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ece6264751c8a540800000000000000
+      internalID: 5019474365287689441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_278
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692c290d28a64c590800000000000000
+      internalID: -7654876356545428842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_279
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373aa3e62a56cc570800000000000000
+      internalID: 8488271145994986355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_280
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ae8a30715852e0800000000000000
+      internalID: -2136868480726686423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_281
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5ddcd298e4eea0800000000000000
+      internalID: -5844290698951697739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Pokemon_Mystery_Dungeon_GTI_Mossy_Hollow_Tile_Ready_282
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a4b2ea1f19f0750800000000000000
+      internalID: 6273393273145608832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
